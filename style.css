@@ -404,6 +404,7 @@ a {
     font-size: 12px;
     padding: 12px 12px;
     transform: translateY(20px);
+    margin-bottom: 40px;
   }
   .box2 {
     margin-top: 1rem;
