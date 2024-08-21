@@ -75,7 +75,7 @@ body {
   display: flex;
   justify-content: space-between;
   width: 88%;
-  margin: 0 auto;
+  margin: 0 auto 20px;
 }
 .heroLeft {
   position: relative;
@@ -239,18 +239,15 @@ body {
   cursor: pointer;
   box-shadow: 0px 1px 2px 0px #8fa79b0d;
 }
-.smallbox {
+.smallBox {
   display: flex;
   gap: 20px;
   margin-top: -30px;
   align-items: center;
 }
-.amazon {
-  height: 80px;
-  width: 130px;
-  padding-top: 10px;
-}
-.openi {
+
+.openai {
+  padding-top: 30px;
   height: 40px;
   width: 135px;
 }
@@ -356,7 +353,7 @@ a {
   .subHeading {
     text-align: center;
   }
-  .smallbox {
+  .smallBox {
     justify-content: center;
   }
   .butttons {
